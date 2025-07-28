@@ -1,5 +1,7 @@
 # raw_multistep
 
+## 1，安装
+bash install_script.sh
 
 ## 2. 运行
 
