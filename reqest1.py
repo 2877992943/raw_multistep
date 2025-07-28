@@ -2,9 +2,8 @@ import requests
 import base64
 
 
-address1='https://u468127-8875-10811f68.westx.seetacloud.com:8443'
-address1='https://u468127-8875-10811f68.westx.seetacloud.com:8443'
-address1='https://u468127-8875-10811f68.westx.seetacloud.com:8443'### name vlm-annotat
+
+address1=''### 实例name vlm-annotat
 url=f'{address1}/uitars'
 
 
